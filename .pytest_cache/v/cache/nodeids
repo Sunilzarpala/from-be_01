@@ -1,0 +1,9 @@
+[
+  "test_file_001.py::Test_Credence_001::test_credence_site_003",
+  "test_file_001.py::Test_Credence_001::test_multiplication_001",
+  "test_file_001.py::Test_Credence_001::test_substraction_002",
+  "test_file_002.py::Test_Credence_002::test_credkart_checkout_004",
+  "test_file_002.py::Test_Credence_002::test_credkart_login_02",
+  "test_file_002.py::Test_Credence_002::test_credkart_order_amount_verification_003",
+  "test_file_002.py::Test_Credence_002::test_registration_01"
+]
